@@ -1,7 +1,7 @@
 <html>
 <head><title>Contributors</title></head>
-Hello world.
 <body>
+Hello world
 <br>
 Contributors:
 <br>
